@@ -11,6 +11,8 @@ Plus, there's an _advanced_ mode which also includes **Spock** and **Lizard**.
 | **Spock**    |  ✅  |  ❌   |    ✅    |       |   ❌   |
 | **Lizard**   |  ❌  |  ✅   |    ❌    |  ✅   |        |
 
+Live demo: https://rock-paper-scissors-nuxt3.netlify.app.
+
 ## Tools used
 
 - `bun`
